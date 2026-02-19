@@ -6,4 +6,4 @@
 
 | 플랫폼 | 난이도 | 문제명 | 풀이 코드 | 알고리즘 | 날짜 |
 | :---: | :---: | :--- | :--- | :---: | :---: |
-| Programmers | Level 1 | [예시문제](링크) | [Python](./Programmers/Level_1/예시.py) | 해시 | 26.02.19 |
+| Programmers | Level 2 | [타겟_넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [Python](./Programmers/Level_2/타겟_넘버.py) | 해시 | 26.02.16 |

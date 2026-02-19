@@ -7,5 +7,4 @@
 | 플랫폼 | 난이도 | 문제명 | 풀이 코드 | 알고리즘 | 날짜 | 반복횟수 |
 | :---: | :---: | :--- | :--- | :---: | :---: | :---: |
 | Programmers | Level 2 | [타겟_넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [Python](./Programmers/Level_2/타겟_넘버.py) | BFS | 26.02.19 | 1 |
-| :---: | :---: | :--- | :--- | :---: | :---: | :---: |
 | LeetCode | Level 2 | [타겟_넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [Python](./Programmers/Level_2/타겟_넘버.py) | BFS | 26.02.19 | 1 |

@@ -10,4 +10,5 @@
 | LeetCode | Med | [Kth_Largest_Element_in_an_Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=problem-list-v2&envId=heap-priority-queue) | [Python](./LeetCode/Heap/Kth_Largest_Element_in_an_Array.py) | Heap | 26.02.19 | 1 |
 | Programmers | Level 2 | [게임_맵_최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) | [Python](./Programmers/Level_2/게임_맵_최단거리.py) | BFS | 26.02.20 | 1 |
 | Programmers | Level 2 | [행렬_테두리_회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485?language=python3) | [Python](./Programmers/Level_2/행렬_테두리_회전하기.py) | 구현 및 시뮬레이션 | 26.02.20 | 1 |
-| LeetCode | Med | [Rotate_Image](https://leetcode.com/problems/rotate-image/) | [Python](./LeetCode/Heap/Rotate_Image.py) | Implementation | 26.02.23 | 1 |
+| LeetCode | Med | [Rotate_Image](https://leetcode.com/problems/rotate-image/) | [Python](./LeetCode/Implementation/Rotate_Image.py) | Implementation | 26.02.23 | 1 |
+| LeetCode | Med | [Surrounded_regions](https://leetcode.com/problems/surrounded-regions/submissions/1928047075/) | [Python](./LeetCode/DFS_BFS/Surrounded_regions.py) | BFS | 26.02.23 | 1 |
